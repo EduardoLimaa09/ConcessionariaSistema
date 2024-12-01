@@ -22,5 +22,5 @@ O projeto foi desenvolvido por:
 
 ## Atualizações
 
-- **Cadastro de Clientes**: Com essa atualização, poderemos ter a opção de cadastrar um cliente e assim podendo ver se ele tem interesse em algum veículos que esteja disponível na concessionária.
+- **Cadastro de Clientes**: Com essa atualização poderemos ter a opção de cadastrar um cliente e assim podendo ver se ele tem interesse em algum veículos que esteja disponível na concessionária.
   
