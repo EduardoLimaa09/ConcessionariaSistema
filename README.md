@@ -7,7 +7,7 @@ O projeto foi desenvolvido por:
 - **Carlos Eduardo**
 - **Gustavo da Silva**
 - **Rogério Lucas**
-- 
+
 ## Funcionalidades
 
 - **Cadastro de Veículos**: Permite o cadastro de carros, motos com informações detalhadas, como modelo, marca, ano de fabricação, entre outros.
